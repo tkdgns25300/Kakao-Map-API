@@ -1,8 +1,9 @@
 import './App.css';
+import MapContainer from './components/MapContainer';
 
 function App() {
   return (
-    <h1>KaKao Map API</h1>
+    <MapContainer></MapContainer>
   );
 }
 
